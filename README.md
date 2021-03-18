@@ -4,14 +4,14 @@ API that handles login and register
 
 Endpoints:
 
-## /api/login
+**/api/login**
 
 GET Gets a user data 
 
 POST Login a user, returns a json web token if user and password is valid
 
 
-## /api/register
+**/api/register**
 
 POST  Register a user, fields for each user are: name, email and password. returns a json web token after a user is succesfully created
 
