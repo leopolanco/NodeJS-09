@@ -6,7 +6,7 @@ Endpoints:
 
 **/api/login**
 
-GET Gets a user data 
+GET Gets logged in user data 
 
 POST Login a user, returns a json web token if user and password is valid
 
